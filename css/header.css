@@ -1162,12 +1162,16 @@
 }
 
 .sidebar-info-contents .content-inner .logo {
-	padding:0px 0px 40px;
+	height: 20%;
+	display: flex;
+	justify-content:flex-start;
+	align-items: center;
 }
 
 .sidebar-info-contents .content-inner .logo img{
-	display:inline-block;
-	max-width:100%;	
+	position: relative;
+	right: 35%;
+	scale: .5;
 }
 
 .sidebar-info-contents .content-inner .content-box{

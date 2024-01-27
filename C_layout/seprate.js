@@ -37,6 +37,7 @@ function loadContent() {
   addScriptFiles("js/jquery.paroller.min.js");
   addScriptFiles("js/owl.js");
   addScriptFiles("js/wow.js");
+  addScriptFiles("js/isotope.js");
   addScriptFiles("js/nav-tool.js");
   addScriptFiles("js/jquery-ui.js");
   addScriptFiles("js/script.js");
